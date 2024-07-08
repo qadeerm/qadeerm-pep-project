@@ -56,7 +56,7 @@ public class SocialMediaController {
      */    
     //insert into account (username varchar(255), password) values ('testuser1', 'password');
     //insert into message (posted_by, message_text varchar(255), time_posted_epoch bigint) values (1,'test message 1',1669947792);
-    
+    //Complelted on 07/07/24 Sunday
     private void userLogin(Context context) throws JsonProcessingException {
         boolean loginSuccess = false;
         ObjectMapper mapper = new ObjectMapper();
